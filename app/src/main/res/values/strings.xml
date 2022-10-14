@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CleanArchitectureApp</string>
+    <string name="default_notify_title">Message</string>
+</resources>
